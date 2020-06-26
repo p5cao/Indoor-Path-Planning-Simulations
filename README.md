@@ -1,1 +1,2 @@
 # Indoor-Path-Planning-Simulations
+This is an excursion based on my ECE 276B final project in UCSD. I performed the various path planning algorithms including search-based: A*, sampling-based: RRT* and apply them to a UGV(crawler robot) and a UAV(hexacopter), respectively to generate optimal paths for indoor navigation from the starting position and arriving at the goal position in the room. Control and steering functions are also created for each robot to generate and follow the feasible trajectories tracking the planned paths.  
